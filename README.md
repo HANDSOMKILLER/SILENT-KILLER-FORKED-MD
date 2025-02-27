@@ -185,7 +185,8 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 ------------
  
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER0432/SILENT-SOBX-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
+<a
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/HANDSOMKILLER/SILENT-KILLER-FORKED-MD/edit/main/README.md)
 
 ----------
 
